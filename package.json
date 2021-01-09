@@ -2,7 +2,7 @@
   "name": "@ericksatelite/node-rest",
   "version": "1.0.0",
   "description": "",
-  "main": "engineer.config.js",
+  "main": "index.js",
   "scripts": {
     "postinstall": "npx prisma generate",
     "prisma-generate": "npx prisma generate",
