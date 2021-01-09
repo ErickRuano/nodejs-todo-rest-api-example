@@ -1,3 +1,5 @@
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Ferickruano%2Fnodejs-todo-rest-api-example&env=DATABASE_URL,GMAIL_USER,GMAIL_PASS,FIREBASE_API_KEY,FIREBASE_AUTH_DOMAIN,FIREBASE_PROJECT_ID,FIREBASE_APP_ID&envDescription=API%20credentials%20required%20for%20cloud%20services&envLink=https%3A%2F%2Fgithub.com%2Ferickruano%2Fnodejs-todo-rest-api-example&redirect-url=satelite.digital&demo-title=To-do%20REST%20API%20example&demo-description=Code%20generated%20with%20Satelite%20Engineer%20and%20%40satelite%2Fnode-rest-api%20template)
+
 # Before you run this project
 
 Youll need to place a .env file at the root containing the following values:
